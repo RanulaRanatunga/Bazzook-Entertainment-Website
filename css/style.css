@@ -1,0 +1,16 @@
+@charset "utf-8";
+.navigation {
+	background:#24BCC6;
+}
+.collapse.navbar-collapse ul li a {
+	color:#AC560B;
+}
+.Bazzook {
+	color:#060606;
+}
+.collapse.navbar-collapse ul li a:hover{
+	background:#31D2EC;
+}
+.dropdown ul.dropdown-menu li a:hover{
+	background:#A9D83F
+}
